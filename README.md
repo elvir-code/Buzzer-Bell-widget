@@ -1,2 +1,2 @@
-# Buzzer-Bell-widgetl
+# Buzzer-Bell-widget
 Widget for webpage 
